@@ -19,6 +19,16 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
+
 footer {
   background-color: #D0AF2A;
   text-align: center;
