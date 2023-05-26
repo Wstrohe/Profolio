@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+header {
+  background-color: #D0AF2A;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  color: black;
+  height: 150px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  background-color: #D0AF2A;
+  text-align: center;
+}
